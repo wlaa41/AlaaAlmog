@@ -13,7 +13,7 @@ function Intro() {
         <div className='item item1'>
           <div className='item1_cont'>
             <h1 className='head'>
-              OneStop
+              Your One Stop
             </h1>
             <h2 className='moto'>
               Software Solution

@@ -35,7 +35,7 @@
     // border: 3px solid deeppink;
     margin: 23px;
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
     grid-template-rows: 1fr max-content ;
   }
   .head{
@@ -43,22 +43,26 @@
     grid-column: 1/4;
     font-size: 66px;
     font-family: 'Open Sans', sans-serif;
-    font-weight: 300;
+    font-weight: 500;
     color: white;
+    text-align: center;
     letter-spacing: 5px;
     text-shadow: 4px 3px 6px rgba(6, 6, 6, 0.932);
   }
   .moto{
     grid-column: 1/4;
-
+    margin-top: 21px;
+    border-top: 1px solid white;
+    text-align: center;
+    padding-top: 22px;
     font-weight: 100;
     text-transform: uppercase;
     font-family: serif;
-    font-size: 16px;
+    font-size: 20px;
     color:lightgray;
     text-shadow: 4px 3px 6px rgba(6, 6, 6, 0.932);
     padding-left: 1px;
-    letter-spacing: 7px;
+    letter-spacing: 15px;
 
   }
 }
