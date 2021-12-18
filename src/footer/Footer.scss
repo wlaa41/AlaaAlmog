@@ -1,0 +1,36 @@
+
+.Footer {
+      // height: 188px;
+      // border: 4px dashed palevioletred;
+      background-color: lavender;
+ 
+      // padding: 3% 6% 1%;
+      &_box{
+        display: flex;
+      flex-direction:row-reverse;
+      // flex-flow: row-reverse;
+        // border: 3px dashed darkblue;
+        &_logo{
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+          img{
+            // border:4px dashed rgb(219, 87, 201);
+
+            display: inline;
+            position: relative;
+          }
+          height: 173px;
+          width: 173px;
+          // border:4px dashed blue;
+        }
+        &_contact{
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+          // border:4px dashed blue;
+        }
+
+      }
+
+  }

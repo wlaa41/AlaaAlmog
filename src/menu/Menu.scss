@@ -1,0 +1,61 @@
+
+.Menu {
+  padding: 5px 12px;
+  width: 100vw;
+  color: white;
+  position: fixed;
+  z-index: 9999;
+  display: flex;
+  justify-content: space-between;
+  background: linear-gradient(to bottom, rgba(88, 39, 134, 0.388),transparent);
+
+  &_menu{
+    display: flex;
+    align-items: center;
+    // flex-grow: 1;
+    gap:44px;
+    &:hover{
+      cursor: pointer;
+    }
+  }
+  &_logo{
+    margin: 8px 0 0 6px;
+    width:13vw;
+    max-width: 155px;
+    min-width: 111px;
+    &:hover{
+      cursor: pointer;
+    }
+  }
+  &_right{
+    margin-right: 22px;
+    padding:4px 1px;
+    color: rgb(233, 233, 233);
+    width:11vw;
+  &_button{
+    margin: 8px 9px 0 0;
+    border :1px solid white;
+    background-color:rgb(70, 64, 71);
+    border-radius: 15px;
+    display: grid;
+    height: 35px;
+    width: 115px;
+    justify-items: center;
+    align-items: center;  
+    transition: all .8s;
+    box-shadow: 3px 0 11px 2px rgba(0, 0, 0, 0.377);
+
+    &:hover{
+      cursor: pointer;
+      transform: translateY(-3px) scale(1.02);
+      transition: all .5s;
+      box-shadow: 4px 0 11px 2px rgba(0, 0, 0, 0.177);
+
+    }
+  }
+  }
+
+  
+
+}
+

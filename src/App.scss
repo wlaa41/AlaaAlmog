@@ -1,0 +1,23 @@
+
+*,
+*::after,
+*::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    // -webkit-touch-callout: none; /* iOS Safari */
+    // -webkit-user-select: none; /* Safari */
+    //  -khtml-user-select: none; /* Konqueror HTML */
+    //    -moz-user-select: none; /* Old versions of Firefox */
+    //     -ms-user-select: none; /* Internet Explorer/Edge */
+    caret-color: transparent;
+
+}
+hr{border: none;}
+
+.App {
+  height: 100vh;
+  width: 100vw;
+  background-color: rgb(235, 235, 235);
+}
+
