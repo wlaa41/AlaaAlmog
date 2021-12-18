@@ -1,10 +1,11 @@
 {
   "files": {
-    "main.css": "/AlaaAlmog/static/css/main.70c7622f.css",
-    "main.js": "/AlaaAlmog/static/js/main.8c21ed7a.js",
+    "main.css": "/AlaaAlmog/static/css/main.68f1c6cc.css",
+    "main.js": "/AlaaAlmog/static/js/main.3c4bf629.js",
     "static/js/787.7d143fa9.chunk.js": "/AlaaAlmog/static/js/787.7d143fa9.chunk.js",
     "static/media/programming.jpg": "/AlaaAlmog/static/media/programming.11b6bed1be8e3ac15802.jpg",
     "static/media/nodejs.jpg": "/AlaaAlmog/static/media/nodejs.2765585029b3df462e5e.jpg",
+    "static/media/vr.svg": "/AlaaAlmog/static/media/vr.d46cb14f8f456546518ae8ddbb0ec4a6.svg",
     "static/media/ubuntu.jpg": "/AlaaAlmog/static/media/ubuntu.c3b6ecce77bddc247a67.jpg",
     "static/media/sketchup.jpg": "/AlaaAlmog/static/media/sketchup.ca97c37eceed6fee9227.jpg",
     "static/media/React JS.png": "/AlaaAlmog/static/media/React JS.999601f51e52dd11a31c.png",
@@ -18,12 +19,12 @@
     "index.html": "/AlaaAlmog/index.html",
     "static/media/maintain.svg": "/AlaaAlmog/static/media/maintain.7d0a368a50abcf35bf3ce23ca6d45538.svg",
     "static/media/hire.svg": "/AlaaAlmog/static/media/hire.e2e339ce164a191551be994b8bc8b330.svg",
-    "main.70c7622f.css.map": "/AlaaAlmog/static/css/main.70c7622f.css.map",
-    "main.8c21ed7a.js.map": "/AlaaAlmog/static/js/main.8c21ed7a.js.map",
+    "main.68f1c6cc.css.map": "/AlaaAlmog/static/css/main.68f1c6cc.css.map",
+    "main.3c4bf629.js.map": "/AlaaAlmog/static/js/main.3c4bf629.js.map",
     "787.7d143fa9.chunk.js.map": "/AlaaAlmog/static/js/787.7d143fa9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.70c7622f.css",
-    "static/js/main.8c21ed7a.js"
+    "static/css/main.68f1c6cc.css",
+    "static/js/main.3c4bf629.js"
   ]
 }
