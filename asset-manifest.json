@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/AlaaAlmog/static/css/main.17987230.css",
-    "main.js": "/AlaaAlmog/static/js/main.14ad26d7.js",
+    "main.css": "/AlaaAlmog/static/css/main.70c7622f.css",
+    "main.js": "/AlaaAlmog/static/js/main.8c21ed7a.js",
     "static/js/787.7d143fa9.chunk.js": "/AlaaAlmog/static/js/787.7d143fa9.chunk.js",
     "static/media/programming.jpg": "/AlaaAlmog/static/media/programming.11b6bed1be8e3ac15802.jpg",
     "static/media/nodejs.jpg": "/AlaaAlmog/static/media/nodejs.2765585029b3df462e5e.jpg",
@@ -18,12 +18,12 @@
     "index.html": "/AlaaAlmog/index.html",
     "static/media/maintain.svg": "/AlaaAlmog/static/media/maintain.7d0a368a50abcf35bf3ce23ca6d45538.svg",
     "static/media/hire.svg": "/AlaaAlmog/static/media/hire.e2e339ce164a191551be994b8bc8b330.svg",
-    "main.17987230.css.map": "/AlaaAlmog/static/css/main.17987230.css.map",
-    "main.14ad26d7.js.map": "/AlaaAlmog/static/js/main.14ad26d7.js.map",
+    "main.70c7622f.css.map": "/AlaaAlmog/static/css/main.70c7622f.css.map",
+    "main.8c21ed7a.js.map": "/AlaaAlmog/static/js/main.8c21ed7a.js.map",
     "787.7d143fa9.chunk.js.map": "/AlaaAlmog/static/js/787.7d143fa9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.17987230.css",
-    "static/js/main.14ad26d7.js"
+    "static/css/main.70c7622f.css",
+    "static/js/main.8c21ed7a.js"
   ]
 }
