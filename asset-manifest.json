@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/AlaaAlmog/static/css/main.eb9dc8b0.css",
+    "main.css": "/AlaaAlmog/static/css/main.d1527d88.css",
     "main.js": "/AlaaAlmog/static/js/main.b1eaef37.js",
     "static/js/787.7d143fa9.chunk.js": "/AlaaAlmog/static/js/787.7d143fa9.chunk.js",
     "static/media/uk.png": "/AlaaAlmog/static/media/uk.7e5467438c35e22a413a.png",
@@ -29,12 +29,12 @@
     "index.html": "/AlaaAlmog/index.html",
     "static/media/maintain.svg": "/AlaaAlmog/static/media/maintain.7d0a368a50abcf35bf3ce23ca6d45538.svg",
     "static/media/hire.svg": "/AlaaAlmog/static/media/hire.e2e339ce164a191551be994b8bc8b330.svg",
-    "main.eb9dc8b0.css.map": "/AlaaAlmog/static/css/main.eb9dc8b0.css.map",
+    "main.d1527d88.css.map": "/AlaaAlmog/static/css/main.d1527d88.css.map",
     "main.b1eaef37.js.map": "/AlaaAlmog/static/js/main.b1eaef37.js.map",
     "787.7d143fa9.chunk.js.map": "/AlaaAlmog/static/js/787.7d143fa9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.eb9dc8b0.css",
+    "static/css/main.d1527d88.css",
     "static/js/main.b1eaef37.js"
   ]
 }
