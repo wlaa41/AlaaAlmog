@@ -1,9 +1,19 @@
 {
   "files": {
-    "main.css": "/AlaaAlmog/static/css/main.68f1c6cc.css",
-    "main.js": "/AlaaAlmog/static/js/main.3c4bf629.js",
+    "main.css": "/AlaaAlmog/static/css/main.3baa1d21.css",
+    "main.js": "/AlaaAlmog/static/js/main.b1eaef37.js",
     "static/js/787.7d143fa9.chunk.js": "/AlaaAlmog/static/js/787.7d143fa9.chunk.js",
+    "static/media/uk.png": "/AlaaAlmog/static/media/uk.7e5467438c35e22a413a.png",
+    "static/media/nl.png": "/AlaaAlmog/static/media/nl.436ba887c6f931792263.png",
+    "static/media/boston.jpg": "/AlaaAlmog/static/media/boston.68552215af06bb41c9e6.jpg",
+    "static/media/lab.jpg": "/AlaaAlmog/static/media/lab.a79ab9ccbf48c943e81d.jpg",
+    "static/media/pat.jpg": "/AlaaAlmog/static/media/pat.f17321b7149438c6fca2.jpg",
+    "static/media/path-finding-phone-googlemap.jpg": "/AlaaAlmog/static/media/path-finding-phone-googlemap.7a916a82d15c9bc74ef3.jpg",
+    "static/media/neuraan.jpg": "/AlaaAlmog/static/media/neuraan.436b15cf92ab0fcfe2bc.jpg",
+    "static/media/brain-aura.jpg": "/AlaaAlmog/static/media/brain-aura.a471b2975359b96c34b4.jpg",
+    "static/media/ant-walking-tree.jpg": "/AlaaAlmog/static/media/ant-walking-tree.fb79269b382f1f3a2c7c.jpg",
     "static/media/programming.jpg": "/AlaaAlmog/static/media/programming.11b6bed1be8e3ac15802.jpg",
+    "static/media/agile.svg": "/AlaaAlmog/static/media/agile.ed2051dc1ea20c69287b7e059a4a3337.svg",
     "static/media/nodejs.jpg": "/AlaaAlmog/static/media/nodejs.2765585029b3df462e5e.jpg",
     "static/media/vr.svg": "/AlaaAlmog/static/media/vr.d46cb14f8f456546518ae8ddbb0ec4a6.svg",
     "static/media/ubuntu.jpg": "/AlaaAlmog/static/media/ubuntu.c3b6ecce77bddc247a67.jpg",
@@ -19,12 +29,12 @@
     "index.html": "/AlaaAlmog/index.html",
     "static/media/maintain.svg": "/AlaaAlmog/static/media/maintain.7d0a368a50abcf35bf3ce23ca6d45538.svg",
     "static/media/hire.svg": "/AlaaAlmog/static/media/hire.e2e339ce164a191551be994b8bc8b330.svg",
-    "main.68f1c6cc.css.map": "/AlaaAlmog/static/css/main.68f1c6cc.css.map",
-    "main.3c4bf629.js.map": "/AlaaAlmog/static/js/main.3c4bf629.js.map",
+    "main.3baa1d21.css.map": "/AlaaAlmog/static/css/main.3baa1d21.css.map",
+    "main.b1eaef37.js.map": "/AlaaAlmog/static/js/main.b1eaef37.js.map",
     "787.7d143fa9.chunk.js.map": "/AlaaAlmog/static/js/787.7d143fa9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.68f1c6cc.css",
-    "static/js/main.3c4bf629.js"
+    "static/css/main.3baa1d21.css",
+    "static/js/main.b1eaef37.js"
   ]
 }
